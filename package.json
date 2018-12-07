@@ -1,0 +1,25 @@
+{
+  "name": "randommovieengine",
+  "version": "1.0.0",
+  "description": "Engine to pick a random movie.",
+  "main": "index.js",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "@types/node": "^10.12.12",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maluther/RandomMovieEngine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maluther/RandomMovieEngine/issues"
+  },
+  "homepage": "https://github.com/maluther/RandomMovieEngine#readme"
+}
